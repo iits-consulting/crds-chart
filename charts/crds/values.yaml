@@ -1,0 +1,12 @@
+externalDNS:
+  namespace: routing
+kruise:
+  manager:
+    replicas: 1
+    resources:
+      limits:
+        cpu: 200m
+        memory: 256Mi
+      requests:
+        cpu: 200m
+        memory: 256Mi
