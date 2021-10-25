@@ -1,0 +1,5 @@
+**/charts/**/charts
+**/requirements.lock
+**/charts/**/Chart.lock
+**/Chart.lock
+**/charts/*.tgz
