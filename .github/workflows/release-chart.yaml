@@ -24,14 +24,6 @@ jobs:
         with:
           version: v3.4.0
 
-      - name: Lint chart
-        run: helm lint charts/* --strict
-
-      #      - name: Validate Kubernetes YAML files with Kubeval
-      #        run: |
-      #          helm plugin install https://github.com/instrumenta/helm-kubeval
-      #          helm kubeval charts/*
-
       - name: Run chart-releaser
         uses: helm/chart-releaser-action@v1.2.1
         env:
