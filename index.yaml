@@ -9,4 +9,12 @@ entries:
     urls:
     - https://github.com/iits-consulting/crds-chart/releases/download/crds-2.42.0-6aab4ef2895c3e4e9db9ff5b8216f94ec1dfa3a7/crds-2.42.0-6aab4ef2895c3e4e9db9ff5b8216f94ec1dfa3a7.tgz
     version: 2.42.0-6aab4ef2895c3e4e9db9ff5b8216f94ec1dfa3a7
-generated: "2021-10-25T09:06:17.640188231Z"
+  - apiVersion: v2
+    created: "2021-10-25T09:33:36.612315979Z"
+    description: crds for our cluster
+    digest: d5c7a99b74f7a6d9b5f9879d958e4ab860d7e3c8029d9963eb0c8d7196827b86
+    name: crds
+    urls:
+    - https://github.com/iits-consulting/crds-chart/releases/download/crds-1.0.0/crds-1.0.0.tgz
+    version: 1.0.0
+generated: "2021-10-25T09:33:36.612336679Z"
