@@ -10,6 +10,14 @@ entries:
     - https://github.com/iits-consulting/crds-chart/releases/download/crds-2.42.0-6aab4ef2895c3e4e9db9ff5b8216f94ec1dfa3a7/crds-2.42.0-6aab4ef2895c3e4e9db9ff5b8216f94ec1dfa3a7.tgz
     version: 2.42.0-6aab4ef2895c3e4e9db9ff5b8216f94ec1dfa3a7
   - apiVersion: v2
+    created: "2021-10-25T13:23:54.862571166Z"
+    description: default crds for common iits helm charts
+    digest: 79a6c26abd76587ac584f1f50b0e368013226186930de9ea12805043117576b0
+    name: crds
+    urls:
+    - https://github.com/iits-consulting/crds-chart/releases/download/crds-1.1.1/crds-1.1.1.tgz
+    version: 1.1.1
+  - apiVersion: v2
     created: "2021-10-25T10:22:09.358502756Z"
     description: default crds for common iits helm charts
     digest: 839075f14590b234e95de3d36af10df5d99051042bf13d66e6f22ae32b7d3755
@@ -25,4 +33,4 @@ entries:
     urls:
     - https://github.com/iits-consulting/crds-chart/releases/download/crds-1.0.0/crds-1.0.0.tgz
     version: 1.0.0
-generated: "2021-10-25T10:22:09.358530257Z"
+generated: "2021-10-25T13:23:54.862600967Z"
