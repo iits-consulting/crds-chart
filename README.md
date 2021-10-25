@@ -1,6 +1,7 @@
 ## Usage
 
-These are custom resource definitions
+These are custom resource definitions for commonly used iits helm charts. This crds should be rolled out upfront so that
+all the other helm charts, which need theses crds, can work without issues.
 
 How to install:
 

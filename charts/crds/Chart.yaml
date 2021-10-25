@@ -1,4 +1,4 @@
 apiVersion: v2
-description: crds for our cluster
+description: default crds for common iits helm charts
 name: crds
-version: 1.0.0
+version: 1.1.0
