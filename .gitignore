@@ -3,3 +3,4 @@
 **/charts/**/Chart.lock
 **/Chart.lock
 **/charts/*.tgz
+.idea/**/*
